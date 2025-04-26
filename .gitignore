@@ -1,0 +1,13 @@
+# Ignorera virtuell miljö
+.venv/
+
+# Ignorera Python cache-filer
+__pycache__/
+
+# Ignorera temporära filer från editorer (valfritt men bra)
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+Thumbs.db
